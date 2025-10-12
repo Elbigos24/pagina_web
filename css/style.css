@@ -1,0 +1,14 @@
+body{
+    background: #69afff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+body>div#home{
+    background-color: #F5ECBD;
+}
+body>div#home>div#menu{
+    height: 25%;
+    
+}
